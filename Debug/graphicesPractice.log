@@ -1,0 +1,72 @@
+﻿  main.cpp
+D:\temp\graphicesPractice\main.cpp(58,39): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(59,37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(60,42): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(62,40): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(65,33): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(100,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(103,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(108,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(110,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(114,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(115,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(120,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(132,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(135,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(142,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(149,46): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(152,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(159,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(166,48): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(170,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(174,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(176,51): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(178,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(185,47): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(189,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(193,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(195,50): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(197,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(206,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(211,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(216,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(224,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(225,48): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(228,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(235,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(242,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(243,47): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(246,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(253,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(302,24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(303,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(318,45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(323,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\temp\graphicesPractice\main.cpp(333,24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(334,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(347,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(351,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\temp\graphicesPractice\main.cpp(367,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(378,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(384,39): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(412,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(420,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\temp\graphicesPractice\main.cpp(437,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(443,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(444,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(464,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(472,37): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(473,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(556,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(587,45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(588,23): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(593,43): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\temp\graphicesPractice\main.cpp(594,23): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(607,22): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(622,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(624,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(626,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(627,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(628,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\temp\graphicesPractice\main.cpp(661,29): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  graphicesPractice.vcxproj -> D:\temp\graphicesPractice\Debug\graphicesPractice.exe
